@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProject/MyApp4/app/src/main/res/layout/fragment1_2.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProject/MyApp4/app/src/main/res/layout/fragment_0.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProject/MyApp4/app/src/main/res/layout/fragment_1.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProject/MyApp4/app/src/main/res/layout/fragment_1_1.xml" value="0.1796875" />
         <entry key="..\:/AndroidStudioProject2/MyApp2/app/src/main/res/layout/fragment_0.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProject2/MyApp2/app/src/main/res/layout/fragment_1.xml" value="0.36666666666666664" />
         <entry key="..\:/AndroidStudioProject2/MyApp2/app/src/main/res/layout/fragment_1_1.xml" value="0.36666666666666664" />
@@ -12,6 +16,9 @@
         <entry key="..\:/AndroidStudioProjects/MyApp/app/src/main/res/layout/fragment_0.xml" value="0.446875" />
         <entry key="..\:/AndroidStudioProjects/MyApp/app/src/main/res/layout/fragment_1.xml" value="0.446875" />
         <entry key="..\:/AndroidStudioProjects/MyApp/app/src/main/res/layout/fragment_1_1.xml" value="0.446875" />
+        <entry key="..\:/AndroidStudioProjects/MyApp4/app/src/main/res/layout/fragment_0.xml" value="0.25885416666666666" />
+        <entry key="..\:/AndroidStudioProjects/MyApp4/app/src/main/res/layout/fragment_1.xml" value="0.446875" />
+        <entry key="..\:/AndroidStudioProjects/MyApp4/app/src/main/res/layout/fragment_1_1.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_1.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_1_1.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp/app/src/main/res/layout/activity_main.xml" value="0.15" />
@@ -65,6 +72,40 @@
         <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp4/app/src/main/res/layout/fragment_4.xml" value="0.27291666666666664" />
         <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp4/app/src/main/res/layout/fragment_5.xml" value="0.25885416666666666" />
         <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp4/app/src/main/res/layout/fragment_6.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_5.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_6.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_7.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment1_8.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_6.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_7.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment2_8.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment3_1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment3_2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment3_3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment3_4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment3_5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment4_1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment4_2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment4_3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment4_4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment5_1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment5_2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment5_3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment5_4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment5_5.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment6_1.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment6_2.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment6_3.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment6_4.xml" value="0.27291666666666664" />
+        <entry key="..\:/Users/911nb.by/AndroidStudioProjects/MyApp5/app/src/main/res/layout/fragment_1_1.xml" value="0.1" />
       </map>
     </option>
   </component>
